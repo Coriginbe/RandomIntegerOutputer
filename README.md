@@ -17,12 +17,16 @@ A ~~crude~~ simple graphical program of outputting random integer ( Only support
 
   更换程序名称  
   更新 `root.title`  
-  `root.title('输出随机整数 V1.1')`
+  ```
+  root.title('输出随机整数 V1.1')
+  ```
 
-  从模块 tkinter 的子模块 messagebox 中导入所有函数  
-  `from tkinter.messagebox import *`  
+  从模块 `tkinter` 的子模块 `messagebox` 中导入所有函数  
+  ```
+  from tkinter.messagebox import *
+  ```
 
-  在 `judge()` 函数中增加 `randrange()` 范围判断和 `invalid character` 判断并使用 `showinfo` 提示
+  在 `judge()` 函数中增加 `range for randrange()` 判断和 `character` 判断并使用 `showinfo` 提示 `Error` 
   ```
     elif num1>num2:
         showinfo('Info','ValueError: empty range for randrange()')
