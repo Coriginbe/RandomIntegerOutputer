@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import font
-from tkinter.messagebox import *
 import random
 
 def judge():
