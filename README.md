@@ -1,8 +1,8 @@
 # RandomIntegerOutputer
 
 ### 随机整数输出器
-一个 ~~简陋的~~ 简单的随机整数输出程序（目前仅支持自然数）。  
-A ~~crude~~ simple random integer output program (Only natural numbers are currently supported).
+一个使用 Python 开发的 ~~简陋的~~ 简单的图形化界面随机整数输出程序（目前仅支持自然数）。  
+A simple GUI random-integer-output-program developed in Python (Only Natural Numbers are currently supported).
 
 ---
 
