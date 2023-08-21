@@ -1,4 +1,4 @@
-# RandomIntegerOutputer
+# [RandomIntegerOutputer](https://github.com/Coriginbe/RandomIntegerOutputer/)
 
 ### 随机整数输出器
 一个使用 Python 开发的 ~~简陋的~~ 简单的图形化界面随机整数输出程序（目前仅支持自然数）。  
@@ -6,12 +6,13 @@ A simple GUI random-integer-output-program developed in Python (Only Natural Num
 
 ---
 
-### 更新日志
-- **随机整数打印器 V1.0**
+### [Releases](https://github.com/Coriginbe/RandomIntegerOutputer/releases)
+
+- **[随机整数打印器 V1.0](https://github.com/Coriginbe/RandomIntegerOutputer/releases/download/V1.0/RandomIntegerOutputer_V1.0_zh-Hans-CN.exe)**  
 
   2021/10/30
 
-- **随机整数输出器 V1.1**  
+- **[随机整数输出器 V1.1](https://github.com/Coriginbe/RandomIntegerOutputer/releases/download/V1.1/RandomIntegerOutputer_V1.1_zh-Hans-CN.exe)**  
 
   2021/10/31
 
