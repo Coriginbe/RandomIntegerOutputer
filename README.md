@@ -16,9 +16,13 @@ A ~~crude~~ simple graphical program of outputting random integer ( Only support
   2021/10/31
 
   更换程序名称  
-  更新 `root.title`  
+  修改 `root.title()`  
   ```
   root.title('输出随机整数 V1.1')
+  ```
+  修改 `Button(text)`
+  ```
+  Button(root,text='输出',font=('NSimSun',15),command=judge).place(relx=0.4,rely=0.6,relheight=0.1,relwidth=0.2)
   ```
 
   从模块 `tkinter` 的子模块 `messagebox` 中导入所有函数  
