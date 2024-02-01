@@ -29,7 +29,7 @@ A simple GUI random-integer-output-program developed in Python (Only Natural Num
     - 修复了用户输入**非数字**或**起始数大于结束数**时程序崩溃的问题。  
 
 
-### [随机整数输出器 Ver. 1.2.0](https://github.com/Coriginbe/RandomIntegerOutputer/releases/download/V1.2.0/RandomIntegerOutputer_V1.2.0_zh-Hans-CN.exe)   
+### [随机整数输出器 Ver. 1.2.0](https://github.com/Coriginbe/RandomIntegerOutputer/releases/download/V1.2.0/RandomIntegerOutputer_V1.2.0_zh-Hans-CN.zip)   
 
 #### 更新时间：2024/2/1  
 
