@@ -8,6 +8,6 @@ A simple GUI random-integer-output-program developed in Python (Only Natural Num
 
 ### [Releases](https://github.com/Coriginbe/RandomIntegerOutputer/releases)
 
-- **[随机整数打印器 V1.0.0](https://github.com/Coriginbe/RandomIntegerOutputer/releases/download/V1.0.0/RandomIntegerOutputer_V1.0.0_zh-Hans-CN.exe)**  
+- **[随机整数打印器 V1.0.0](https://github.com/Coriginbe/RandomIntegerOutputer/releases/download/V1.0.0/RandomIntegerPrinter_V1.0.0_zh-Hans-CN.exe)**  
 
   2021/10/30
