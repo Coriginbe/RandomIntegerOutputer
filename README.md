@@ -33,6 +33,8 @@ A simple GUI random-integer-output-program developed in Python (Only Natural Num
 
 #### 更新时间：2024/2/1  
 
+#### 注意：建议使用程序前先安装 “得意黑”（Smiley-Sans） 字体文件。  
+
 - **新增功能**
     - 增加了反馈功能：用户可以点击 “Feedback” `Button`，跳转到 GitHub repository 的 Issues 页中新建 Issues 。
 
